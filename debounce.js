@@ -1,4 +1,3 @@
-// Main goal - reset timer each time
 function debounce(fn, delay) {
     let timeoutId
     return function(...args) {
